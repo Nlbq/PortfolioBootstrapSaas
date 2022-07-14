@@ -15,8 +15,8 @@
   .swiper-slide {
     background-position: center;
     background-size: cover;
-    /* background-color: #1a2f42; */
-    background-color: #24292e;
+    /* background-color: #24292e; */
+  background-color: #222;
     color: #fff;
     text-align: center;
   }
@@ -44,16 +44,16 @@
     color: orange;
   }
     .card-header{
-        font-size: 24px;
-        margin: 0;
-        padding-top: 5%;
-        font-weight: 700;
-        color: #fff;
+    font-size: 24px;
+    margin: 0;
+    padding-top: 5%;
+    font-weight: 700;
+    color: #fff;
   }
   .card-text{
-      margin: 0;
-      padding-top: 3%;
-      padding-bottom: 5%;
+    margin: 0;
+    padding-top: 3%;
+    padding-bottom: 5%;
   }
   .button-project {
     text-decoration: none;
